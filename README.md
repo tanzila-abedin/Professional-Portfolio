@@ -1,64 +1,24 @@
-Read Only by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Hi there, I am Tanzila 👋  
+     
+![](https://img.shields.io/badge/Microverse-blueviolet)      
+
+I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=knrm9p) as a full-stack Web developer student.<br>
+I like collaborating with others to build digital solutions that solve real-world problems.
+
+[![Linkedin Badge](https://img.shields.io/badge/-Tanzila%20Abedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanzila-abedin-331440b2/)](https://www.linkedin.com/in/tanzila-abedin-331440b2/)
+[![Twitter Badge](https://img.shields.io/badge/-@TanzilaAbedin_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TanzilaAbedin)](https://twitter.com/TanzilaAbedin)
 
 
-Just a super simple single-page responsive template built for personal sites and portfolios
-(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
-elements, and Sass sources.
+👤 **Tanzila**
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+![Tanzila's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanzila-abedin&count_private=true&theme=dark&show_icons=true)
 
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+- GitHub: [@githubhandle](https://github.com/tanzila-abedin)
+- Twitter: [@twitterhandle](https://twitter.com/TanzilaAbedin)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tanzila-abedin-331440b2/)
 
 
-Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## 📝 License
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
-
-
-#things i can do : 
-Languages :
- Ruby 
- Javascript 
- SQL
-
-
-Platforms :
-Google Cloud Services
-Heroku
-AWS
-
-Framework : 
-Boostrap 5 
-Ruby on rails
-React Redux
-
-tools : 
-
-Sublime / VSC
-Git / GitHUB
-Github projects
-
-Projects: 
-1. ruby: capstone: linters
-2. rails : private events/members only
-3. rails : stay in touch
-4. html & css : capstone: conference/events page
+This project is [MIT](LICENSE) licensed.
