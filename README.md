@@ -2,8 +2,7 @@
      
 ![](https://img.shields.io/badge/Microverse-blueviolet)      
 
-I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=knrm9p) as a full-stack Web developer student.<br>
-I like collaborating with others to build digital solutions that solve real-world problems.
+To View , click here : [Portfolio](https://tanzila-abedin.github.io/Professional-Portfolio/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tanzila%20Abedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanzila-abedin-331440b2/)](https://www.linkedin.com/in/tanzila-abedin-331440b2/)
 [![Twitter Badge](https://img.shields.io/badge/-@TanzilaAbedin_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TanzilaAbedin)](https://twitter.com/TanzilaAbedin)
